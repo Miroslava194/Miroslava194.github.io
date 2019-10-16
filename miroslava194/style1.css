@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+	background: url(https://media2.giphy.com/media/vjwm4J3V8DR3a/source.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p {
+	color: Navy;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h1 {
+	color: DeepSkyBlue;
+	font-size: 50px;
+	font-family: 'Lobster';
+}
+div {
+	font-size: 35px;
+	font-family: 'Lobster';
+}
+a {
+	color: Navy;
+	text-decoration: none;
+}
+#sunset {
+	margin: auto;
+	width: 60%;
+	background-color: rgba(0,0,0,0);
+}
+#header {
+	height: 100px;
+	background-color: rgba(0,0,0,0);
+	position: relative;
+}
+
+}
+#leftArrow, #rightArrow {
+	width: 70px;
+	height: auto;
+}
+#left {
+	position: absolute;
+	left: 20px;
+	top: 7px;
+}
+#right {
+	position: absolute;
+	left: 80%;
+	top: 15px;
+}
+#leftPlanet {
+	width: 70px
+	height: auto;
+}
+
+
+https://st2.depositphotos.com/5562698/8451/v/950/depositphotos_84515404-stock-illustration-floral-light-green-background-seamless.jpg
