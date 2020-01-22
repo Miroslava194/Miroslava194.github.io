@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	background: url(https://ae01.alicdn.com/kf/HTB1RkJCk5CYBuNkSnaVq6AMsVXa0/Mehofoto.jpg_q50.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p {
+	color: Red;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+a {
+	color: Red;
+	text-decoration: none;
+}
+h1 {
+	color: #18A9FF;
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+
+}
+
